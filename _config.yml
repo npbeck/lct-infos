@@ -6,11 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: LCT infos
+description: Infos for LCT students at University of the Basque Country
 github_username: npbeck
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "lct-infos"
+#github_repo: "/lct-infos"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -39,11 +39,9 @@ baseurl: "/lct-infos" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
-
+    
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
@@ -55,7 +53,7 @@ show_image: false
 annotations: false
 
 # Set this to true to display tags on each post
-show_tags: true
+show_tags: false
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
@@ -67,7 +65,7 @@ exclude:
 
 # this setting allows you to keep pages organized in the _pages folder
 include:
-  - _pages
+  - _pages/paperwork.md
 
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
@@ -117,9 +115,6 @@ kramdown:
   syntax_highlighter: rouge
 
 # to limit size of xml as it can grow quite large.
-feed:
-  posts_limit: 5 #default posts_limit: 10
-  excerpt_only: true
-  
-exclude:
-  - settings.ini
+#feed:
+#  posts_limit: 5 #default posts_limit: 10
+#  excerpt_only: true
