@@ -4,7 +4,7 @@ layout: page
 
 
 <p align="center">
-  <img width="600" height="150" src="{{site.baseurl}}/images/panorama_donostia.jpg" alt="A photo of La Contxa, Donostia. By Nils Beck">
+  <img width="600" height="150" src="{{site.baseurl}}/images/panorama_donostia.png" alt="A photo of La Contxa, Donostia. By Nils Beck">
 </p>
 
 # Welcome // Bienvenid@ // Ongi etorri
