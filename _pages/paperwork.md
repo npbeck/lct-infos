@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Paperwork
+permalink: /paperwork/
 ---
 
 ## How to handle Spanish Bureaucracy
