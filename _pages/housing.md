@@ -5,5 +5,5 @@ permalink: /housing/
 toc: true
 ---
 
-## Finding housing in San Sebastián
+## Tips for finding a home in San Sebastián
 TODO
