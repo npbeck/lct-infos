@@ -14,6 +14,8 @@ However, you will need to present a contract or an affirmative letter from your 
 
 Make your appointment for registration [here](https://www.donostia.eus/info/udalinfo/Tramites.nsf/vTramites/8A56560AE3CA7957C125814500390C56?OpenDocument&idioma=cas&des=Ciudadan%EDa&id=D580485#) (Name of the procedure: *Padrón Municipal de Habitantes: alta*). Then follow the instructions, i.e., bring a registration form along with your document that proves you live in San Sebastián to the municipality office.
 
+---
+
 ## EU citizens
 EU citizens that live in Spain for more than three months must request a *número de identidad de extranjeros (NIE)*, i.e. an identification number for foreigners. Technically, you will need to be registered as a resident at the *ayuntamiento* for this ("*empadronamiento*"), but if you follow the procedure we outline below, the authorities will usually not ask for proof of this. However, if you have a rental contract, registering and having *empadronamiento* will only make things easier. 
 
@@ -27,9 +29,12 @@ Follow these steps to request a NIE
 3. You will also have to pay an administrative fee, which is a tedious process. Set some time aside for taking care of it. You will need to fill out the form [Tasa 790 - Código 012](https://sede.policia.gob.es/Tasa790_012/ImpresoRellenar) online. Instructions for how to fill it out will hopefully also get to you with the confirmation email from your appointment. Print this form out after having filled it. 
 4. Now take the form to a bank - not to the police - to pay the administrative fee. You need to do this before the appointment. Unfortunately, lots of bank will only receive their own clients' forms, so you might have to go from door to door and see who will receive you. From our experience BBVA has always reived this payment. But as all of the other banks, they have strange schedules. Definitely go there in the morning.
 5. Lastly, will all your documents, copies and confirmations, go to your appointment with the police and pray for the best :) They typically don't ask many questions and you should be in and out within half an hour.
-6. Congratulations! You hopefully now have your NIE.
+6. Congratulations! You hopefully now have your NIE. You should get a print-out of the number. However, be patient with the digital propagation of the number. It might take various days until Spain's digital systems actually recognize your NIE as valid.
 
+### The social security number
+If you want to sign a work contract in Spain, you will be asked for a social security number. You need to provide you NIE, along with some other personal data to request it. Usually, proof of residence (*empadronamiento*) is not checked.
 
+---
 
 ## Non-EU citizens
 
