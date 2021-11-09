@@ -22,7 +22,7 @@ TODO
 Registration (*empadronamiento*) is usually a quick and beneficial procedure. You get access to many municipal services, including discounts in public transport.
 However, you will need to present a contract or an affirmative letter from your landlord, which many landlords who are renting off the books are not willing to provide. Nonetheless, it is **essential for non-EU citizens to register**, so keep this in mind when looking for appartments.
 
-Make your appointment for registration [here](https://www.donostia.eus/info/udalinfo/Tramites.nsf/vTramites/8A56560AE3CA7957C125814500390C56?OpenDocument&idioma=cas&des=Ciudadan%EDa&id=D580485#) (Name of the procedure: *Padrón Municipal de Habitantes: alta*). Then follow the instructions, i.e., bring a registration form along with your document that proves you live in San Sebastián to the municipality office.
+Make your appointment for registration [here](https://www.donostia.eus/info/udalinfo/Tramites.nsf/vTramites/8A56560AE3CA7957C125814500390C56?OpenDocument&idioma=cas&des=Ciudadan%EDa&id=D580485#) (name of the procedure: *Padrón Municipal de Habitantes: alta*). Then follow the instructions, i.e., bring a registration form along with your document that proves you live in San Sebastián to the municipality office.
 
 ### The NIE
 The NIE is particularly important if you want to work in Spain, for instance in order to get your LCT internship credits. Spanish employers will always ask you for a NIE and a Spanish social security number, which you can only request with an NIE.
