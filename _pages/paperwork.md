@@ -6,18 +6,23 @@ toc: true
 ---
 
 ## How to handle Spanish Bureaucracy
-Spain has a very bureaucratic and poorly digitized administration. We have spend days struggling with it and hope to save you a considerable amount of time with the following tips. We will divide most of them into advice for EU-citizens and non-EU-citizens, since they are usually treated differently.
+Spain has a very bureaucratic and poorly digitized administration. We have spend days struggling with it and hope to save you a considerable amount of time with the following tips.
 
-### Registering with the *ayuntamiento*
+---
+
+## EU citizens - things to consider
+EU citizens that live in Spain for more than three months must request a *número de identidad de extranjeros (NIE)*, i.e. an identification number for foreigners. Technically, you will need to be registered as a resident at the *ayuntamiento* for this ("*empadronamiento*"), but if you follow the procedure we outline below, the authorities will usually not ask for proof of this. However, if you have a rental contract, registering and having *empadronamiento* will only make things easier. 
+
+## Non-EU citizens - things to consider
+TODO
+  
+---
+
+## Registering with the *ayuntamiento*
 Registration (*empadronamiento*) is usually a quick and beneficial procedure. You get access to many municipal services, including discounts in public transport.
 However, you will need to present a contract or an affirmative letter from your landlord, which many landlords who are renting off the books are not willing to provide. Nonetheless, it is **essential for non-EU citizens to register**, so keep this in mind when looking for appartments.
 
 Make your appointment for registration [here](https://www.donostia.eus/info/udalinfo/Tramites.nsf/vTramites/8A56560AE3CA7957C125814500390C56?OpenDocument&idioma=cas&des=Ciudadan%EDa&id=D580485#) (Name of the procedure: *Padrón Municipal de Habitantes: alta*). Then follow the instructions, i.e., bring a registration form along with your document that proves you live in San Sebastián to the municipality office.
-
----
-
-## EU citizens
-EU citizens that live in Spain for more than three months must request a *número de identidad de extranjeros (NIE)*, i.e. an identification number for foreigners. Technically, you will need to be registered as a resident at the *ayuntamiento* for this ("*empadronamiento*"), but if you follow the procedure we outline below, the authorities will usually not ask for proof of this. However, if you have a rental contract, registering and having *empadronamiento* will only make things easier. 
 
 ### The NIE
 The NIE is particularly important if you want to work in Spain, for instance in order to get your LCT internship credits. Spanish employers will always ask you for a NIE and a Spanish social security number, which you can only request with an NIE.
@@ -34,9 +39,10 @@ Follow these steps to request a NIE
 ### The social security number
 If you want to sign a work contract in Spain, you will be asked for a social security number. You need to provide you NIE, along with some other personal data to request it. Usually, proof of residence (*empadronamiento*) is not checked.
 
----
+Follow these steps to request a social security number
+1. You might want to check out [this info page](https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/44084?changeLanguage=en) about requesting a social security number. There are basically two ways of doing it. You can either [request it via internet](https://sp.seg-social.es/ProsaInternet/OnlineAccess?ARQ.SPM.ACTION=LOGIN&ARQ.SPM.APPTYPE=SERVICE&ARQ.IDAPP=XV204100&PAUC.FORCE_IDP=IPCE&_ga=2.103625671.63756880.1636477911-2140256611.1635967704) (which requires authentication with a [*certificado digital*](https://www.sede.fnmt.gob.es/certificados/persona-fisica/obtener-certificado-software/solicitar-certificado), a digital access token, which you can generate if you have a NIE. This will entail one more visit to an office). Or you fill out the [form TA1](https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/Afiliacion/10817/31190/572), [make an appointment](https://www.seg-social.es/wps/portal/wss/internet/OficinaSeguridadSocial/) and get the social security number at an office.
 
-## Non-EU citizens
+
 
 
 
