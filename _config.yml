@@ -67,6 +67,7 @@ exclude:
 include:
   - _pages/paperwork.md
   - _pages/housing.md
+  - _pages/internship.md
 
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
