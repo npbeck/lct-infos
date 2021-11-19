@@ -16,4 +16,18 @@ toc: true
 - Bus times on Google Maps are usually correct, but be careful, especially if you're counting on the last bus. The timetables change between summer and the rest of the year, and other apps might have outdated information. If it's critical to you, it's best to check the actual DBUS or Lurraldebus app/website.
 
 ### Bike
-`TO-DO`
+- Donostia-San Sebastián runs [DBizi](https://www.dbizi.eus/es/bienvenido), a municipal bike sharing system. They have stations all across town, including various ones at University of the Basque Country, but also in the Centre, the Old Town (parte vieja), and Gros. This makes it very flexible and relatively cheap, compared to other public transport options.
+- You can sign up on their website, no need to go to an office
+- Renting bikes works through the [PBSC](https://www.pbsc.com/cities/san-sebastian-bike-share) app. 
+- At the time of writing there were two options
+  -  You pay 10 Euros per month + 40 Cents per 30-minute ride
+  -  You pay 35 Euros per year + 20 Cents per 30-minute ride
+-  If you live somewhat central, 30 minutes are more then enough to get to university and most other places by bike
+
+However, there are some downsides to DBizi, which you might want to take into consideration
+- once in a while (maybe once a month), their IT system will have a breakdown and you cannot rent bikes for a couple of hours. Hopefully, this will get fixed, though.
+- The credit cards of various LCT students were not accepted by DBizi
+- If you like to bike fast, you might not enjoy the DBizi bikes a whole lot
+- At peak hours, bike stations sometimes fill up and you cannot return your bike at the desired station. This rarely happens, though.
+
+
