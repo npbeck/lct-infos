@@ -6,7 +6,7 @@
 
 https://npbeck.github.io/me/
 
-# How to contribute to the LCT blog
+# How to contribute to the LCT info page
 Thank you for your interest in making life easier for future LCT students in San Sebastián-Donostia!
 If you want to add a page, update some info, etc., feel free to fork this repo, make the change, and open a pull request.
 If you would like to be a regular maintainer, please [reach out](https://npbeck.github.io/me/contact/) and we can add you to the team of contributors.
