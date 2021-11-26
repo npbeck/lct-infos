@@ -65,10 +65,10 @@ The process is also slightly more annoying, but you've already gone through the 
 
 ## Paying fees (*tasas*)
 For most of the bureaucratic processes you will be asked to pay a so-called tasa - usually one on the form 790-012. In this section we want to give you more details about this payment, which **can be very annoying** if you don't know them.
-- as a foreigner forget about paying the *tasa* online. Slice it as you want it, it's not going to work. Not if your Spanish friend does it and also not if you have a Spanish bank account.
+- as a foreigner forget about paying the *tasa* online. Slice it as you want, it's not going to work; neither if your Spanish friend does it nor if you have a Spanish bank account.
 - you **need to physically go to a bank**. Unfortunately, most banks only let their own customers pay the *tasa* and won't accept your payment. We highly recommend to **go to BBVA**, which to our knowledge is the only bank that reliably accept foreigner's payments in cash. There are two options:
-  - You can **make the payment with BBVA personnel** at the counter. This might be easiest if you do not have a NIE yet, or are unsure about the payment process. Bring a suitable sum in cash and do not ask for much change. BUT: service hours are very weird, usually only in the mornings and sometimes not even every working day of the week. On weekends and holidays, there is no such service.
-  - You can **make the payment at a BBVA ATM**. Make sure you use a large ATM that accepts cash and is able to print bank statements. This option is obviously much more comfortable, because in the larger BBVA offices you can do it at any time of the day
+  - You can **make the payment with BBVA personnel** at the counter. This might be easiest if you do not have a NIE yet, or are unsure about the payment process. Bring a suitable sum in cash and do not ask for much change. Be sure to bring your ID document. There is a serious downside, though: Service hours are very weird, usually only in the mornings and sometimes not even every working day of the week. On weekends and holidays, there is no such service.
+  - You can **make the payment at a BBVA ATM**. Make sure you use a large ATM that accepts cash and is able to print bank statements. This option is obviously much more comfortable, because in the larger BBVA offices you can do it at any time of the day and don't need the personnel there.
     1. Insert your card (doesn't have to be a BBVA card)
     2. choose the option of paying bills/*tasas*
     3. scan the barcode of your payment (can be on your phone)
