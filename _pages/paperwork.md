@@ -61,3 +61,17 @@ The process is also slightly more annoying, but you've already gone through the 
 * Certificate of *empadronamiento* and a copy
 3. You then have to pay the administrative fee, by filling out [Tasa 790 - Código 012](https://sede.policia.gob.es/Tasa790_012/ImpresoRellenar), printing it and bringing it to a bank. Read [this step](#feeprocess) for more details on the convoluted process of paying this tax.
 4. With all that, you just go to your appointment, give them your documents and your signature that will be on the card, and it will be ready in around 40-45 days, then you will have to book another appointment and go pick it up :)
+
+
+## Paying fees (*tasas*)
+For most of the bureaucratic processes you will be asked to pay a so-called tasa - usually one on the form 790-012. In this section we want to give you more details about this payment, which **can be very annoying** if you don't know them.
+- as a foreigner forget about paying the *tasa* online. Slice it as you want it, it's not going to work. Not if your Spanish friend does it and also not if you have a Spanish bank account.
+- you **need to physically go to a bank**. Unfortunately, most banks only let their own customers pay the *tasa* and won't accept your payment. We highly recommend to **go to BBVA**, which to our knowledge is the only bank that reliably accept foreigner's payments in cash. There are two options:
+  - You can **make the payment with BBVA personnel** at the counter. This might be easiest if you do not have a NIE yet, or are unsure about the payment process. Bring a suitable sum in cash and do not ask for much change. BUT: service hours are very weird, usually only in the mornings and sometimes not even every working day of the week. On weekends and holidays, there is no such service.
+  - You can **make the payment at a BBVA ATM**. Make sure you use a large ATM that accepts cash and is able to print bank statements. This option is obviously much more comfortable, because in the larger BBVA offices you can do it at any time of the day
+    1. Insert your card (doesn't have to be a BBVA card)
+    2. choose the option of paying bills/*tasas*
+    3. scan the barcode of your payment (can be on your phone)
+    4. enter your details (amount to be payed, NIE, name, lastname)
+    5. confirm and insert cash bills that cover the sum (make sure you don't need much change)
+    6. print the receipt or have the ATM send it to your email address
