@@ -70,6 +70,7 @@ include:
   - _pages/internship.md
   - _pages/general.md
   - _pages/transportation.md
+  - _pages/program.md
 
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
