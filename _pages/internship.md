@@ -49,7 +49,7 @@ Once you have completed your internship, it can be graded and registered in the 
 The **grade for your internship** is calculated as follows:
 
 - 70%: assessment by your internship instructor/advisor. The local coordinators will take care of this part
-- 30%: assessment of the student report by the university tutor
+- 30%: assessment of the student report by the local coordinator
 
 Upon finishing the internship you thus **need to write a student report** following a template that the local coordinators provide you with. This student report has a mostly self-reflective tone, yet the instructions you are given are somewhat ambiguous and imprecise. The questions that you need to answer move along the lines of the prompts below.
 
