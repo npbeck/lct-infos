@@ -45,7 +45,7 @@ Typically, the agreement will consist of
 You will have to act as the mediator between the university and the hosting institution and make sure, the university receives the agreement document in time, and then approves it.
 
 ### Registering your internship at university
-Once you have completed your internship, it is be graded and registered in the academic management system G.A.U.R.
+Once you have completed your internship, it can be graded and registered in the university's academic management system G.A.U.R.
 The **grade for your internship** is calculated as follows:
 
 - 70%: assessment by your internship instructor/advisor. The local coordinators will take care of this part
