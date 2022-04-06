@@ -43,3 +43,24 @@ Typically, the agreement will consist of
 - contact information and personal details from your supervisor (e.g., boss, research group leader etc.)
 
 You will have to act as the mediator between the university and the hosting institution and make sure, the university receives the agreement document in time, and then approves it.
+
+### Registering your internship at university
+Once you have completed your internship, it is be graded and registered in the academic management system G.A.U.R.
+The **grade for your internship** is calculated as follows:
+
+- 70%: assessment by your internship instructor/advisor. The local coordinators will take care of this part
+- 30%: assessment of the student report by the university tutor
+
+Upon finishing the internship you thus **need to write a student report** following a template that the local coordinators provide you with. This student report has a mostly self-reflective tone, yet the instructions you are given are somewhat ambiguous and imprecise. The questions that you need to answer move along the lines of the prompts below.
+
+> "Describe the tasks and work carried out as well as that of the departments to which you have been assigned."
+
+> "Assess the tasks you developed, considering the knowledge and skills acquired. In how far do these tasks relate to your university studies?"
+
+> "List the problems you encountered, and describe the procedures you followed to solve them."
+
+> "Outline in how far the internship contributed to your learning process."
+
+> "Evaluation your internship and make suggestions for improvement."
+
+Once your internship instructor/advisor's assessment is handed in and your own report is assessed, your internship can be registered with a grade in G.A.U.R.
