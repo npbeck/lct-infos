@@ -17,7 +17,7 @@ toc: true
 - The University of the Basque Country offers an [intensive Spanish course](https://www.ehu.eus/en/web/nazioarteko-harremanak/en-intensive-spanish-august-september) in August-September, and regular [Spanish](https://www.ehu.eus/en/web/nazioarteko-harremanak/en-autumn-spring-spanish-courses) and [Basque](https://www.ehu.eus/en/web/nazioarteko-harremanak/en-autumn-spring-basque-courses) courses throughout both semesters. The credits you get from those do not count towards LCT credits, but they're good options if you want to learn the language. They're also not free for masters students, but you can email them proof that you're an Erasmus student and that gets you 50% off the fee.
 
 ### Commerce and services
-- Most establishments in the city close during the afternoon for "siesta", a break between the morning-early afternoon and the late afternoon/night shifts. The closing time usually ranges from 1-4pm and they reopen usually around 6-8pm, sometimes as late as 8:30 or 9pm for restaurants and bars (especially in summer), but each place has different times. To make things even harder, this break might also vary throughout the year as the day gets shorter and rainier. Google Maps usually has the correct opening-closing times but not even they can keep up.
+- Most establishments in the city close during the afternoon for "siesta", a break between the morning-early afternoon and the late afternoon/night shifts. The closing time usually ranges from 1-4pm and they reopen usually around 6-8pm, sometimes as late as 8:30 or 9pm for restaurants and bars (especially in summer), but each place has different times. To make things even harder, this break might also vary throughout the year as the day gets shorter and rainier. Google Maps usually has the correct opening-closing times but not even they can keep up. If you *really* need to know, it's best to call and confirm.
 
 - Almost everything closes on sundays. A few supermarkets such as SuperCor and ToroToro and the small Eroski Rapids will open, and some small, local commerce might also open on sundays and close instead on mondays, but as a rule of thumb, don't wait to do your shopping then.
 
@@ -32,8 +32,8 @@ toc: true
 
 - Almost any bar/restaurant/café will let you go in and use their bathroom even if you aren't a client. If it's full you can walk in and find your way, or you can politely ask any server and they'll show you.
 
-### Weather
-- Get an umbrella, the lightest and most portable you possibly can, and bring it everywhere always.
+### Health insurance
+- The travel/health insurance we have from LCT, Dr. Walter, is not an actual "health insurance plan" that will be accepted by any hospitals or clinics. Rather, you can go anywhere as a private client, and get all of the receipts and proofs of payment to open a claim with Dr. Walter and get reimbursed.
 
 ### Travel
 
